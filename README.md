@@ -20,12 +20,12 @@
 <br>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexandraObw&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexandraObw&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandraObw&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksandraObw&theme=transparent)
 
 
 <!--
-**AlexandraObw/AlexandraObw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AleksandraObw/AlexandraObw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
