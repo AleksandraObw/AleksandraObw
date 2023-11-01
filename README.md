@@ -12,7 +12,6 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/></p>
 
 <p>🌏 I speak Russian and English. Also I understand a little French</p>
-<p>💡 What I plan to learn next: JS, React, TS</p>
 <p>💬 You can reach me by:
   <a href="https://t.me/AlexandraObw" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/></p>
 <br>
