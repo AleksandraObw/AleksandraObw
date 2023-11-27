@@ -19,9 +19,9 @@
 <br>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandraObw&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksandraObw&theme=transparent)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandraObw&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AleksandraObw&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AleksandraObw&theme=transparent)
 
 <!--
 **AleksandraObw/AlexandraObw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
