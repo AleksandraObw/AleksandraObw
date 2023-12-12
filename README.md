@@ -1,7 +1,7 @@
 <div align="left">
 <h2>Hi there 👋</h2>
 
-<p>My name is Aleksandra and I'm novice frontend developer from Krasnodar, RU.</p>
+<p>My name is Aleksandra and I'm newbie in frontend developing from Krasnodar, RU.</p>
 <br>
 
 <p>💻 Languages and tools: 
@@ -9,9 +9,10 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>&nbsp;
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>&nbsp;
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>&nbsp;
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/></p>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>&nbsp;
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png" alt="vuejs"/></p>
 
-<p>🌏 I speak Russian and English. Also I understand a little French</p>
+<p>🌏 I speak Russian and English. Also I understand French a bit and learn Japanese</p>
 <p>💬 You can reach me by:
   <a href="https://t.me/AlexandraObw" target="blank"><img width="48" height="48" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/></p>
 <br>
