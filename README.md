@@ -10,7 +10,9 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>&nbsp;
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>&nbsp;
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>&nbsp;
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png" alt="vuejs"/></p>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png" alt="vuejs"/>&nbsp;
+<img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></p>
+
 
 <p>🌏 I speak Russian and English. Also I understand French a bit and learn Japanese</p>
 <p>💬 You can reach me by:
