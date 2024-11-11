@@ -15,7 +15,7 @@
 
 <p>🌏 I speak Russian and English. Also I understand French a bit and learn Japanese</p>
 <p>💬 You can reach me by:
-  <a href="https://t.me/AlexandraObw" target="blank"><img width="32" height="32" src="https://img.icons8.com/color/32/telegram-app--v1.png" alt="telegram-app--v1"/></p>
+  <a href="https://t.me/AleksandraObw" target="blank"><img width="32" height="32" src="https://img.icons8.com/color/32/telegram-app--v1.png" alt="telegram-app--v1"/></p>
 <br>
 <h2>GitHub statistics 📈</h2>
 <br>
