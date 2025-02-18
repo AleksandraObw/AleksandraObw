@@ -10,7 +10,9 @@
 <img width="32" height="32" src="https://img.icons8.com/color/32/git.png" alt="git"/>&nbsp;
 <img width="32" height="32" src="https://img.icons8.com/fluency/32/figma.png" alt="figma"/>&nbsp;
 <img width="32" height="32" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-color-tal-revivo.png" alt="vuejs"/>&nbsp;
-<img width="32" height="32" src="https://img.icons8.com/color-glass/32/bootstrap.png" alt="bootstrap"/></p>
+<img width="32" height="32" src="https://img.icons8.com/color-glass/32/bootstrap.png" alt="bootstrap"/>
+<img width="32" height="32" src="https://img.icons8.com/parakeet/48/sql.png" alt="sql"/>
+</p>
 
 
 <p>🌏 I speak Russian and English. Also I understand French a bit and learn Japanese</p>
